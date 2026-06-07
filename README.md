@@ -1,4 +1,4 @@
-# 🤖 DecodeLabs Project 1 
+# DecodeLabs Project 1 
 # Simple Chatbot
 
 ## Overview
